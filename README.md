@@ -186,17 +186,6 @@ the attribute `version` is obsolete, it will be ignored
   pytest
   ```
 
----
-
-## Submission Guidelines
-
-1. Fork this repository and push your changes.  
-2. Ensure all problems are fully working.  
-3. Include this README in your fork.  
-4. Share the GitHub repository link with your recruiter:  
-   ```
-   engineering@ragworks.ai
-   ```
 
 ---
 
